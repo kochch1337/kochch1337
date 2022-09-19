@@ -25,5 +25,3 @@ in case you need help look at ![Stack Overflow](https://img.shields.io/badge/-St
 😁😂🤣
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kochch1337)](https://git.io/streak-stats)
-
-![Me](https://img-9gag-fun.9cache.com/photo/aYoLPrV_700bwp.webp)
