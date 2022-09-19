@@ -1,5 +1,8 @@
 # Welcome to my profile
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
 I don't know anything about web development
 
 What I know (at least a little bit):
