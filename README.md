@@ -11,6 +11,8 @@ Full-Stack Developer but I don't know anything about web development 😩
 - [GUPTA](https://de.wikipedia.org/wiki/Gupta_Team_Developer)
 - some [python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+in case you need help look at ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
