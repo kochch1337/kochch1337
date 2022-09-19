@@ -4,7 +4,7 @@
 ![](https://gitwar.herokuapp.com/badge?username=kochch1337)
 
 ## About me
-Full-Stack Developer but I don't know anything about web development
+Full-Stack Developer but I don't know anything about web development 😩
 
 ## What I know (at least a little bit):
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -14,5 +14,7 @@ Full-Stack Developer but I don't know anything about web development
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+😁😂🤣
 
 ![Me](https://img-9gag-fun.9cache.com/photo/aYoLPrV_700bwp.webp)
